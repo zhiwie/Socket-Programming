@@ -1,0 +1,2 @@
+# Socket-Programming
+ This program specified server and client, where server receives client's request and gives specific output i.e.  - reverses the order of clients input - converts lowercase to uppercase - shows specific output when client enters specific commands i.e. "date" and "time"  - shows IP address and port number of  client when new connection is detected - exits server or client when specific commands are typed i.e. "Exit Server" and "Exit Client"
